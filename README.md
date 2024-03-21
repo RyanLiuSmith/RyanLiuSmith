@@ -6,4 +6,4 @@
 - :hammer_and_wrench: I build models with: `Python` `SQL` `Jupyter Lab` `Ubuntu` ...
 - :writing_hand: Write a blog on [Substack](https://ryanliusmith.substack.com/) 
 - ⚡ I enjoy: anime & manga, lifting weights, cooking, and making up stories with my friends :) 
-- ⚙️: Mechanical Engineer
+- ⚙️ Mechanical Engineer
